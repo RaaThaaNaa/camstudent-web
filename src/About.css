@@ -1,0 +1,35 @@
+.about-page {
+  padding-top: 100px; /* Offset for your pinned navbar */
+  color: white;
+  background-color: #1a1a1a; /* Dark theme to match your style */
+  min-height: 100vh;
+}
+
+.about-hero {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #333;
+  margin-bottom: 40px;
+}
+
+.about-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.about-text h2 {
+  color: #646cff; /* Match your blue/purple accents */
+  margin-bottom: 15px;
+}
+
+.about-img {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 15px;
+  margin: 30px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
